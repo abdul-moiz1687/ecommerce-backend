@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "title": "T-shirt with Tape Details",
+    "price": 120,
+    "rating": 4.5,
+    "image": "/images/image 7.png",
+    "category": "T-shirts",
+    "dressStyle": "Casual",
+    "colors": ["#111111"],
+    "sizes": ["Small", "Medium", "Large", "X-Large"]
+  }
+]
